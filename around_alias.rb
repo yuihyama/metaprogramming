@@ -7,6 +7,3 @@ class String
     succ
   end
 end
-
-p 'A'.next_alpha # => "B"
-puts 'A'.next_alpha # => B
